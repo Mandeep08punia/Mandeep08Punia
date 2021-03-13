@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mandeep Punia 🙂</h1>
+<h1 align="center">Hi!👋 I'm Mandeep Punia 😋</h1>
 <h3 align="center">Full Stack Web Developer 💎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mandeep08punia" alt="Mandeep08punia" /> </p>
