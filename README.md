@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mandeep08punia" alt="Mandeep08punia" /> </p>
 
 <div>
+  
+- I mostly work in **ReactJS** (i.e. Frontend)
 
 - I’m currently learning **NodeJS**
-
-- I have a good understanding in **React**
 
 - Some of my projects are available at my [Github](https://github.com/Mandeep08Punia?tab=repositories)
 
