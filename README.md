@@ -5,13 +5,13 @@
 
 <div>
   
-- I mostly work in **ReactJS** (i.e. Frontend)
+- I mostly work in **ReactJS** 
 
-- I’m currently learning **NodeJS**
+- I’m comfortabe with **NodeJS**
 
 - Some of my projects are available at my [Github](https://github.com/Mandeep08Punia?tab=repositories)
 
-- Skills- **HTML,CSS,Javascript,ReactJS , Data Structures and Algorithms**
+- Skills- **Data Structures and Algorithms,HTML,CSS,Javascript,ReactJS,Node.js**
 
 - Contact me- **mandeeppunia08@gmail.com**
 
